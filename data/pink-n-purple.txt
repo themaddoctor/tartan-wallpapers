@@ -1,0 +1,3 @@
+pink-n-purple
+Threadcount: PU48 W2 PU2 W2 PU48 PK48 K2 PK2 K2 PK48
+Pallet: W=f0f0f0White;K=101010Black;PK=ff4c98Pink;PU=4c0066Purple;

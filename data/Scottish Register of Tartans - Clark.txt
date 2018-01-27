@@ -1,0 +1,4 @@
+Clark
+# (Clerke/Clergy/Priest)
+Threadcount: A/8B20A8B14A8K30A8K30B28A8K/8
+Pallet: A=3C82AFBLUE;B=2C4084BLUE;K=101010BLACK;

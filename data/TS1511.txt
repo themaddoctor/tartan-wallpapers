@@ -1,0 +1,3 @@
+TS1511
+Threadcount: R/16 G10 R4 K12 R36 K4 R/16
+Pallet: R=600000red;G=004000green;K=101010black;

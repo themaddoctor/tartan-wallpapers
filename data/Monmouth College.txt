@@ -1,0 +1,3 @@
+Monmouth College
+Threadcount: R/6 K8 W8 K48 R66 K/8
+Pallet: R=c01010red;K=101010black;W=f0f0f0white;

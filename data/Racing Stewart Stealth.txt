@@ -1,0 +1,3 @@
+Racing Stewart Stealth
+Threadcount: N/8 P22 Y22 K6 N6 K6 N6 K10 N10 K/172
+Pallet: N=787878grey;P=701024pink;Y=506028yellow;K=101010black;

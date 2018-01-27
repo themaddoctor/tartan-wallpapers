@@ -1,0 +1,3 @@
+Decatur Presbyterian Church
+Threadcount: W/16 Y10 K4 P16 G24 R12 G/82
+Pallet: W=f0f0f0white;Y=f8f810yellow;K=101010black;P=584090purple;G=109010green;R=e01010red;

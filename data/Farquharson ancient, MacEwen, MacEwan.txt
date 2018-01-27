@@ -1,0 +1,3 @@
+Farquharson ancient, MacEwen, MacEwan
+Threadcount: Y/4 K1 G22 K19 B16 K2 B3 K2 B16 K19 G22 K1 R4 K1 G22 K36 B3 K2 B3 K2 B28 K2 B3 K2 B3 K19 G22 K1 Y/4
+Pallet: Y=f0e010yellow;K=101010black;G=145820green;B=3840a0blue;R=c01010red;

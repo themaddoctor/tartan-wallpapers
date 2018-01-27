@@ -1,0 +1,3 @@
+rainbow
+Threadcount: R8 O8 Y8 G8 B8 P8
+Pallet: R=f00000red;O=f08000orange;Y=d0d000yellow;G=00d000green;B=3030f0blue;P=8000f0purple;

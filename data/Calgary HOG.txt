@@ -1,0 +1,3 @@
+Calgary HOG
+Threadcount: W/8 N12 K8 BO4 O20 K89 N2 K2 W/4
+Pallet: W=f0f0f0white;N=a0a0a0grey;K=101010black;BO=f82000brightorange;O=f85010orange;

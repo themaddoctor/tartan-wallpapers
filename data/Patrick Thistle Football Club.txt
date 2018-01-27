@@ -1,0 +1,3 @@
+Patrick Thistle Football Club
+Threadcount: W/6 R60 K8 Y4 K14 Y8 K/106
+Pallet: W=f0f0f0white;R=a00808red;K=101010black;Y=d0d020yellow;

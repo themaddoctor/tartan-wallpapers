@@ -1,0 +1,3 @@
+Fraser of Boblainy
+Threadcount: R/4 B28 G28 R56 B/4
+Pallet: G=106820GREEN;B=303080BLUE;R=D07070RED;

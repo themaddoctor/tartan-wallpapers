@@ -1,0 +1,3 @@
+Leinster
+Threadcount: G/6 LG30 G4 LG4 K20 Y4 B24 K2 LG4 K2 B24 K20 LG36 R/6
+Pallet: G=108010green;LG=60b060lightgreen;K=101010black;Y=c0c010yellow;B=202080blue;R=c01010red;

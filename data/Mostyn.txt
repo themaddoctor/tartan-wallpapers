@@ -1,0 +1,3 @@
+Mostyn
+Threadcount: G/6 B4 G48 K16 P4 K4 P4 K4 P/40
+Pallet: G=28a028green;B=303070blue;K=101010black;P=f08080pink;

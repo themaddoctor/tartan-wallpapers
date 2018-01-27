@@ -1,0 +1,3 @@
+Angela
+Threadcount: W50 P2 B8 P2 W8 P2 Y8 P2
+Pallet: W=ffffffwhite;P=ff8888pink;B=8888ffblue;Y=ffff44yellow;

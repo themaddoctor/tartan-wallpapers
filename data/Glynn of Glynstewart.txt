@@ -1,0 +1,3 @@
+Glynn of Glynstewart
+Threadcount: Y/4 G2 Y6 G60 R6 K40 R4 K40 R6 LB40 K4 G6 K4 LB/40
+Pallet: Y=f0f010yellow;G=408040green;R=b01010red;K=101010black;LB=50b0e0lightblue;

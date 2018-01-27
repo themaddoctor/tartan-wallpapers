@@ -1,0 +1,3 @@
+Ailsa Pink
+Threadcount: W/8 K6 W64 P56 W6 P/16
+Pallet: W=fffff0offwhite;K=101010black;P=f09090pink;

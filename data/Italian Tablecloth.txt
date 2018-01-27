@@ -1,0 +1,3 @@
+Italian Tablecloth
+Threadcount: R40 W40
+Pallet: R=D00000RED;W=E0E0E0WHITE;

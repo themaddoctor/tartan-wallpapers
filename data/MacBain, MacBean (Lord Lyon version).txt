@@ -1,0 +1,3 @@
+MacBain, MacBean - Lord Lyon version
+Threadcount: G/20 W4 R10 P10 G4 P10 R10 W4 K4 G24 K4 W4 L10 K4 W4 K4 L10 W4 R/120
+Pallet: G=107018green;W=f0f0f0white;R=800808red;P=f08080pink;K=101010black;L=c0b4f8lavender;

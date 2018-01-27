@@ -1,0 +1,5 @@
+Maple Leaf
+# national tartan of Canada
+Threadcount: Y12 T12 BR12 G38 R6 G6 R30 T26 R30 G6 R6 G38
+Pallet: Y=b69a44yellow;T=756449tan;BR=452815brown;G=0d2e1egreen;R=611610red;
+# from an image from Wikipedia

@@ -1,0 +1,3 @@
+TS892
+Threadcount: R/64 G2 R2 G2 R8 G/48
+Pallet: R=700000Red;G=004000Green;

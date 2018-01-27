@@ -1,0 +1,3 @@
+Silver Thistle
+Threadcount: K/8 N4 K92 B40 K12 B6 G/8
+Pallet: K=101010black;N=909090grey;B=303070blue;G=207020green;

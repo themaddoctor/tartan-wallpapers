@@ -1,0 +1,3 @@
+Cunningham Dress Purple
+Threadcount: LB/8 P4 K4 P78 W78 P4 W/10
+Pallet: LB=5060f8lightblue;P=801080purple;K=101010black;W=f0f0f0white;

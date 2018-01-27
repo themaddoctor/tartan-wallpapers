@@ -1,0 +1,3 @@
+Muirhead
+Threadcount: Y/6 G28 LG18 B8 LG16 W4 LG24 R24 LG4 R10 W/4
+Pallet: Y=c0c010yellow;G=106810green;LG=388858teal;B=080860blue;W=f0f0f0white;R=e00808red;

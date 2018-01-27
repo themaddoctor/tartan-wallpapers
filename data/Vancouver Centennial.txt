@@ -1,0 +1,3 @@
+Vancouver Centennial
+Threadcount: R/2 B52 W24 G48 Y4 G/8
+Pallet: R=c01010red;B=0808d0blue;W=f0f0f0white;G=109010green;Y=f0e010yellow;

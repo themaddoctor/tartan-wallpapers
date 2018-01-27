@@ -1,0 +1,3 @@
+Kaeding
+Threadcount: P/10 L6 K6 L60 P60 W6 P6 K/10
+Pallet: K=101010black;P=5010b8purple;W=f0f0f0white;L=a080f0lavender;

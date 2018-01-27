@@ -1,0 +1,3 @@
+Harris
+Threadcount: Y/2 N16 LN4 K30 LN40 R2 LN2 R2 LN16 N6 LN/2
+Pallet: Y=d0c810yellow;N=505050grey;LN=c0c0c0lightgrey;R=c01010red;K=101010black;

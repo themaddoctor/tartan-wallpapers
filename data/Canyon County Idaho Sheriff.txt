@@ -1,0 +1,3 @@
+Canyon County Idaho Sheriff
+Threadcount: R/10 K50 T50 W/10
+Pallet: R=c02020red;K=101010black;T=a09060tan;W=f0f0f0white;

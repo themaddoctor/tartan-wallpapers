@@ -1,0 +1,3 @@
+Macfie Hunting
+Threadcount: W/4 BR48 G8 R8 G64 R8 G8 BR48 Y/4
+Pallet: W=f0f0f0white;BR=382000brown;G=106010green;R=901010red;Y=c0a010yellow;

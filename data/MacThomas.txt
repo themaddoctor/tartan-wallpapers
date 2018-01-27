@@ -1,0 +1,3 @@
+MacThomas
+Threadcount: B/10 R6 B64 K32 G64 W6 G/10
+Pallet: B=3070c0blue;R=a01020red;K=101010black;G=103818green;W=f0f0f0white;

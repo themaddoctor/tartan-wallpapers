@@ -1,0 +1,4 @@
+Saskatchewan
+Threadcount: Y/4 T2 R4 T52 BR22 G12 K2 W/4
+Pallet: Y=f0e010yellow;T=d0b060tan;R=801010red;BR=403808brown;G=306020green;K=101010black;W=f0f0f0white;
+# doubled threadcount of an image from Wikipedia

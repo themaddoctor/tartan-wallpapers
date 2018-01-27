@@ -1,0 +1,3 @@
+Baird - modern
+Threadcount: B/12 K8 B32 K32 G32 F4 G4 F/12
+Pallet: B=383880blue;K=101010black;G=107010green;F=901080fuscia;

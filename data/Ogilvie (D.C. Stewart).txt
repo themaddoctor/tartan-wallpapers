@@ -1,0 +1,3 @@
+Ogilvie
+Threadcount: N/16 R4 N16 Y4 K4 R24 W4 R16 W4 R24 K4 Y4 N16 W/4
+Pallet: N=808080grey;R=e00000red;Y=d0d010yellow;K=101010black;W=f0f0f0white;

@@ -1,0 +1,3 @@
+Tokyo Bluebells
+Threadcount: W/8 LB52 K28 LB4 R4 LB4 R4 LB/72
+Pallet: W=f0f0f0white;LB=40a0e0light blue;K=101010black;R=c01010red;
